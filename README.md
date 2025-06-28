@@ -85,10 +85,10 @@ dotnet run
 
 By default, the app runs at:
 
-- http://localhost:5000
-- or https://localhost:5001 (if HTTPS is configured)
+- http://localhost:5201
 
-Open the URL in your browser.
+Open the URL http://localhost:5201 in your browser to get HomePage.
+Hit http://localhost:5201/api/products to get the project list.
 
 ---
 
